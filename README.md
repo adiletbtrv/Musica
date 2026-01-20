@@ -30,11 +30,4 @@ Built by **Adilet Batyrov**.
 ## Getting Started
 
 1.  Clone the repository.
-2.  Install dependencies:
-    ```bash
-    npm install
-    ```
-3.  Run the development server:
-    ```bash
-    npm run dev
-    ```
+2.  Open index.html in your preferred browser to launch the app instantly.
